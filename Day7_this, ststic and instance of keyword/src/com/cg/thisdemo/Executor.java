@@ -1,0 +1,13 @@
+package com.cg.thisdemo;
+
+public class Executor {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Derived d=new Derived();//default constructor
+		Derived d1=new Derived(35);//parameterized constructor 
+
+	}
+
+}
